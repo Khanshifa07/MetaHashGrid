@@ -112,6 +112,3 @@ contract MetaHashGrid {
         return keccak256(abi.encodePacked(x, y, z, msg.sender, block.timestamp));
     }
 }
-// 
-update
-// 
